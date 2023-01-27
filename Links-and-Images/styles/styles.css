@@ -1,0 +1,246 @@
+    .logo{
+        padding-left: 2cm;
+        border: 2px solid blue;
+        border-radius: 25%;
+        width: 20px;
+        height: 20px;
+        display: inline;
+        background-image: url("../images/LogoMakr-suheir.png");  
+        background-size: cover;
+        background-position: center;
+    }
+    .black-header  {
+        background-color: #1F2937;
+        text-justify: right;
+        height:380px;
+    }
+    .black-footer {
+         /* border: 2px solid blue ; */
+        background-color: #1F2937 ;
+        height: 100px;
+        width : 80vw;
+        margin-left: 40px; 
+    }
+    .quote-footer{
+        background-color: #E5E7EB;
+        font-size: 28px    ;
+        color :#1F2937;
+        font-style: italic;
+        height: 170px;
+        width : 65vw;
+        text-justify: right;
+        margin-left:200px; 
+    }
+    .nav1 {
+        /* border: 2px solid red; */
+        width: 90%;
+        height : 300px;
+        margin: 5px auto;
+        /* text-align: right; */
+    }
+    nav ul li {
+        display: inline-block;  
+        /* margin-inline: 5px; */
+        /* print-color-adjust : white; */
+    }
+    nav ul li a{
+        text-decoration: none;
+        color:white;
+        font-size: 15px;
+        letter-spacing: 1px;
+        margin: 7px 10px;
+    }
+    h1{
+        font-size: 48px;
+        font-weight: extra-bold;
+        color: #F9FAF8;
+        text-align: left;
+        width:350px;
+        /* display: inline;   */
+    }
+    p{           
+        width:5cm;
+        height: 5cm;
+        display: inline;  
+    }
+    img{
+        margin-top: 0cm;
+        margin-left: 12cm;
+        width: 8cm;
+        height: 4cm;     
+    }
+    .header-container ,.footer-block{
+        /* border: 2px solid black; */
+        margin-top:0 px;
+        /* margin: 10px auto; */
+        padding-top: 0px;
+        margin-left: 0px;
+        padding-left: 0px;
+        
+        width: 75%;
+        display: flex;
+        flex-direction: row;
+        align-content:space-between; 
+    }
+      .body-container{
+        /* border: 2px solid red; */
+        margin: 10px auto;
+        margin-left: 200px;
+        padding-left: 50px;
+        padding-inline-start: 2cm;
+        width: 65%;
+        display: flex;
+        flex-direction: row;  
+    }
+    .right-box{
+        /* border: 2px solid violet;  */
+        margin-left: 150px;
+        padding-left: 20px;
+        width: 50%;
+        height: 100px;
+        background-image: url("../images/first-img.jpg");
+        background-size: cover;
+        background-position: center;
+    } 
+    .left-box  {
+        /* border: 2px solid blue;   */
+        margin-left :0px;
+        padding-left: 0px;
+        color: white;
+        width: 200px; 
+        height: 100px;
+        text-align: left;
+        letter-spacing: 0.8;
+
+    }   
+    .box1{
+        padding-left: 2cm;
+        border: 2px solid blue;
+        border-radius: 25%;
+        width: 30px;
+        height: 100px;
+        background-image: url("../images/8ballpool.jpg");  
+        background-size: cover;
+        background-position: center;
+    }
+    .box2{
+        padding-left: 2cm;
+        margin-left: 20px;
+        border: 2px solid blue;
+        border-radius: 25%;
+        width: 30px;
+        height: 100px;
+        background-image: url("../images/HayDay.jpg");
+        background-size: cover;
+        background-position: center; 
+    }
+    .box3{
+        padding-left: 2cm;
+        margin-left: 20px;
+        border: 2px solid blue;
+        border-radius: 25%;
+        width: 30px;
+        height: 100px;   
+        background-image: url("../images/chess.jpg");
+        background-size: cover;
+        background-position: center; 
+    }
+    .box4{
+        padding-left: 2cm;
+        margin-left: 20px;
+        border: 2px solid blue;
+        border-radius: 25%;
+        width: 30px;
+        height: 100px;
+        background-image: url("../images/tetris.jpg");
+        background-size: cover;
+        background-position: center; 
+    }
+    .fontbox1{
+        font-size: small;
+    }
+    .footer-container{
+        width:600px;
+        height: 100px;
+        margin-left: 200px;
+        /* border: 2px solid black; */
+        background-color: rgb(20, 122, 156);
+    }
+    .footer-block {
+        padding-left: 2cm;
+        /* border: 2px solid red; */
+        color: white;
+        width: 25%;
+        height: 100px;
+        display: inline;
+    }
+    .footer-h2 {
+        color : black;
+         
+        /* display: inline; */
+    }
+    .footer-h3{
+        color : black;
+        
+        display: inline;
+    }
+    .footer-p{
+        margin-left: 110px;
+        font-size: small;
+    }
+    .sign-up-button{
+        background-color: transparent;
+        border: 2px solid white; 
+        color: white ;
+        margin-left: 30px;
+        border-radius:20%;
+    }
+    .header-sign-up{
+        background-color:  #3882F6;
+        border: 2px solid #3882F6; 
+        color: white ; 
+        margin-left: 0px;
+        border-radius:20%;  
+    }
+    .thor{
+        text-align: right;
+        margin-left: 550px;
+    }
+    .labels{
+        /* border: 2px solid red; */
+        margin: 10px auto;
+        margin-left: 200px;
+        padding-left: 50px;
+        padding-inline-start: 2cm;
+        width: 65%; 
+        display:flexbox; 
+        flex-grow:1;
+    }
+    .label-8ball{
+        /* border: 2px solid black; */
+        padding-left: 15px;
+        margin-left: 10px; 
+    }
+    .label-hayday{
+        /* border: 2px solid black; */
+        padding-left: 35px;
+        margin-left: 25px;   
+    }
+    .label-chess{
+        /* border: 2px solid black; */
+        padding-left: 35px;
+        margin-left: 35px;   
+    }
+    .label-tetris{
+        /* border: 2px solid black; */
+        padding-left: 35px;
+        margin-left: 55px;   
+    }
+    .suheir{
+        margin-top: 50px;
+        margin-left: 150px;
+        padding-left: 150px;
+        padding-top: 80px;
+        color: white ;
+        /* border: 2px solid red;  */
+    }
